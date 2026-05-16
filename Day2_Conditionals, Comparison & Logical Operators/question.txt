@@ -1,0 +1,3 @@
+AI/ML DAY 2 CODING CHALLENGE
+
+build a Grade Calculator and a Tax Calculator with different income slabs.
