@@ -1,3 +1,6 @@
+#Question: Ask user for name, age, height. Print
+#formatted bio + auto-convert height to feet.
+
 name = input("Enter Your Name: ")
 height = int(input("Enter Your Height in Inches: "))
 
