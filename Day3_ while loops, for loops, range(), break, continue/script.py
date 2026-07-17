@@ -17,6 +17,7 @@ while i<6:
 j = 1
 while j<6:
     if j == 3:
+        j+=1
         continue
     print(j)
     j +=1

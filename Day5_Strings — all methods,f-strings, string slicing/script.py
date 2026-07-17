@@ -147,7 +147,7 @@ print (x)
 
 #2.casefold() METHOD IS SIMILAR TO lower()method... but a bit stronger....it lowercase the string
 
-# 3. center()
+# 3. center()   1
 # it takes 2 parameters, length and character(which is optional)
 txt = "banana"
 x = txt.center(20, "-")
